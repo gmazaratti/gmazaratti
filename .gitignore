@@ -1,0 +1,7 @@
+# local working files — never publish the source photo or previews
+*.jpg
+*.jfif
+*.jpeg
+*.png
+make_ascii_svg.py
+__pycache__/
